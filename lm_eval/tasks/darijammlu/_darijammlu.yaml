@@ -1,4 +1,5 @@
 group: darijammlu
+group_alias: DarijaMMLU
 task:
 - darijammlu_mmlu
 - darijammlu_ar_mmlu
