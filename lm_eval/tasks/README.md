@@ -31,6 +31,7 @@
 | [coqa](coqa/README.md) | Conversational question answering tasks to test dialog understanding. | English |
 | [crows_pairs](crows_pairs/README.md) | Tasks designed to test model biases in various sociodemographic groups. | English, French |
 | csatqa | Tasks related to SAT and other standardized testing questions for academic assessment. | Korean |
+| [darijammlu](darijammlu/README.md) | Multiple-choice QA in Moroccan Darija (an Arabic dialect). | Moroccan Darija |
 | [drop](drop/README.md) | Tasks requiring numerical reasoning, reading comprehension, and question answering. | English |
 | [eq_bench](eq_bench/README.md) | Tasks focused on equality and ethics in question answering and decision-making. | English |
 | [eus_exams](eus_exams/README.md) | Tasks based on various professional and academic exams in the Basque language. | Basque |
