@@ -3,7 +3,11 @@ group_alias: STEM
 task:
   - darijammlu_stem_tasks
 aggregate_metric_list:
-  - metric: acc
-    weight_by_size: True
+  - aggregation: mean
+    metric: acc
+    weight_by_size: true
+  - aggregation: mean
+    metric: acc_norm
+    weight_by_size: true
 metadata:
   version: 0
