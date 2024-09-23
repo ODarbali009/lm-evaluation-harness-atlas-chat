@@ -22,7 +22,6 @@ MMLU_SUBJECTS = {
     "high_school_statistics": "stem",
     "high_school_world_history": "humanities",
     "human_aging": "other",
-    "human_sexuality": "social_sciences",
     "international_law": "humanities",
     "jurisprudence": "humanities",
     "logical_fallacies": "humanities",
