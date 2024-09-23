@@ -7,7 +7,7 @@ def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:
         out_doc = {
             "query": doc["activity_label"] + ": " + ctx,
             "choices": doc["endings"],
-            "label": int(doc["label"]),
+            "gold": int(doc["label"]),
         }
         return out_doc
 
