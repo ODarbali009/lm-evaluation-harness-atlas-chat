@@ -4,7 +4,6 @@ task: darijahellaswag
 dataset_path: MBZUAI-Paris/DarijaHellaSwag
 dataset_name: null
 output_type: multiple_choice
-training_split: test
 validation_split: validation
 test_split: null
 process_docs: !function utils.process_docs
