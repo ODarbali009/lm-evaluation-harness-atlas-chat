@@ -20,6 +20,7 @@ generation_kwargs:
     - "<|endoftext|>"
   do_sample: false
   temperature: 0.0
+  max_new_tokens: 128
 filter_list:
   - name: "STRIP_ANSWER"
     filter:

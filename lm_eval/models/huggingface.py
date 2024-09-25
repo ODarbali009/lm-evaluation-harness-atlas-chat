@@ -770,7 +770,7 @@ class HFLM(TemplateLM):
     def tok_batch_encode(
         self,
         strings: List[str],
-        padding_side: str = "left",
+        padding_side: str = "right",
         left_truncate_len: int = None,
         truncation: bool = False,
     ) -> Tuple[torch.Tensor, torch.Tensor]:

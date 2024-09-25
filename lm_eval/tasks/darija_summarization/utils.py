@@ -18,7 +18,7 @@ class Strip(Filter):
 
 
 def doc_to_text(doc):
-    doc_text = doc["messages"][0]["content"].replace("لخص هاد المقطع:", "لخص هاد المقطع في ٣٠ كلمة:")
+    doc_text = doc["messages"][0]["content"]
     return doc_text
 
 def doc_to_target(doc):
