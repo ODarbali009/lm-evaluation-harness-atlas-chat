@@ -6,7 +6,7 @@ Title: Atlas-Chat: Adapting Large Language Models for Low-Resource Moroccan Arab
 
 Abstract: [https://arxiv.org/abs/2409.17912](https://arxiv.org/abs/2409.17912)
 
-DarijaBench, a comprehensive evaluation dataset tailored for Moroccan Darija. DarijaBench includes different datasets for core NLP tasks such as translation (based on four datasets, [DODa-10K](https://huggingface.co/datasets/MBZUAI-Paris/DoDa-10k), [FLORES+](https://github.com/openlanguagedata/flores), [NLLB-Seed](https://github.com/openlanguagedata/seed) and [MADAR](https://sites.google.com/nyu.edu/madar/)), summarization (based  on MArSum) and, sentiment analysis (based on five datasets, MAC, MYC, MSAC, MSDA and, Electro Maroc 2016).
+DarijaBench, a comprehensive evaluation dataset tailored for Moroccan Darija. DarijaBench includes different datasets for core NLP tasks such as translation (based on four datasets, [DODa-10K](https://huggingface.co/datasets/MBZUAI-Paris/DoDa-10k), [FLORES+](https://github.com/openlanguagedata/flores), [NLLB-Seed](https://github.com/openlanguagedata/seed) and [MADAR](https://sites.google.com/nyu.edu/madar/)), summarization (based  on MArSum) and, sentiment analysis (based on five datasets, [MAC](https://github.com/LeMGarouani/MAC), [MYC](https://github.com/MouadJb/MYC), [MSAC](https://hal.science/hal-03670346/document), [MSDA](https://cc.um6p.ma/cc_datasets) and, [ElectroMaroc2016](https://github.com/sentiprojects/ElecMorocco2016)).
 
 
 Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaBench](https://huggingface.co/datasets/MBZUAI-Paris/DarijaBench)
