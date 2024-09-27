@@ -2,15 +2,27 @@
 
 ### Paper
 
+Title: Atlas-Chat: Adapting Large Language Models for Low-Resource Moroccan Arabic Dialect
+
+Abstract: [https://arxiv.org/abs/2409.17912](https://arxiv.org/abs/2409.17912)
+
+DarijaHellaSwag is a challenging multiple-choice benchmark designed to evaluate machine reading comprehension and commonsense reasoning in Moroccan Darija. It is a translated version of the HellaSwag validation set, which presents scenarios where models must choose the most plausible continuation of a passage from four options.
+
+
+Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaHellaSwag](https://huggingface.co/datasets/MBZUAI-Paris/DarijaHellaSwag)
+
 
 ### Citation
 
 ```
-@inproceedings{zellers2019hellaswag,
-    title={HellaSwag: Can a Machine Really Finish Your Sentence?},
-    author={Zellers, Rowan and Holtzman, Ari and Bisk, Yonatan and Farhadi, Ali and Choi, Yejin},
-    booktitle ={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
-    year={2019}
+@article{shang2024atlaschatadaptinglargelanguage,
+      title={Atlas-Chat: Adapting Large Language Models for Low-Resource Moroccan Arabic Dialect}, 
+      author={Guokan Shang and Hadi Abdine and Yousef Khoubrane and Amr Mohamed and Yassine Abbahaddou and Sofiane Ennadir and Imane Momayiz and Xuguang Ren and Eric Moulines and Preslav Nakov and Michalis Vazirgiannis and Eric Xing},
+      year={2024},
+      eprint={2409.17912},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.17912}, 
 }
 ```
 
