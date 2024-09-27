@@ -24,7 +24,6 @@ Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaMMLU](https://hugg
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2409.17912}, 
 }
-}
 ```
 
 ### Groups, Tags
