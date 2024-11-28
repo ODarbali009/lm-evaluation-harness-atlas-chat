@@ -32,7 +32,7 @@ Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaBench](https://hug
 
 * `darija_sentiment`: evaluates all Darija sentiment analysis tasks.
 
-#### Tags
+#### Tasks
 
 * `darija_sentiment_mac`: evaluates Darija translation task from [MAC](https://github.com/LeMGarouani/MAC) dataset.
 * `darija_sentiment_myc`: evaluates Darija translation task from [MYC](https://github.com/MouadJb/MYC) dataset.

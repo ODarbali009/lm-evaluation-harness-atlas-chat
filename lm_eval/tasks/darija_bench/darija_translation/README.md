@@ -32,7 +32,7 @@ Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaBench](https://hug
 
 * `darija_translation`: evaluates all Darija Translation tasks.
 
-#### Tags
+#### Tasks
 
 * `darija_translation_doda`: evaluates Darija translation task from [DODa-10k](https://huggingface.co/datasets/MBZUAI-Paris/DODa-10K) corpus.
 * `darija_translation_flores`: evaluates Darija translation task from [FLORES+](https://github.com/openlanguagedata/flores) dataset.

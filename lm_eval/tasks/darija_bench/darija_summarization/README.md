@@ -32,7 +32,7 @@ Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaBench](https://hug
 
 * `darija_summarization`: evaluates Darija summarization task.
 
-#### Tags
+#### Tasks
 
 * `darija_summarization_task`: evaluates Darija summarization task from [MArSum](https://github.com/KamelGaanoun/MoroccanSummarization) corpus.
 

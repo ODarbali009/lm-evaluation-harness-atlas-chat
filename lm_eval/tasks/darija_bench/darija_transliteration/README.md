@@ -32,7 +32,7 @@ Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaBench](https://hug
 
 * `darija_transliteration`: evaluates Darija transliteration task.
 
-#### Tags
+#### Tasks
 
 * `darija_transliteration_task`: evaluates Darija transliteration task from [DODa-10K](https://huggingface.co/datasets/MBZUAI-Paris/DODa-10K) corpus.
 
