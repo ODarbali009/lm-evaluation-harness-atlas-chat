@@ -26,7 +26,7 @@ Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaMMLU](https://hugg
 }
 ```
 
-### Groups, Tags
+### Groups and Tasks 
 
 #### Groups
 

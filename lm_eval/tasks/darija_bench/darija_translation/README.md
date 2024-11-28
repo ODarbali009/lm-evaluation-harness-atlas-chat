@@ -26,7 +26,7 @@ Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaBench](https://hug
 }
 ```
 
-### Groups, Tags
+### Groups and Tasks
 
 #### Groups
 
