@@ -1,4 +1,4 @@
-# DarijaBench: Sentiment Analysis
+# DarijaBench
 
 ### Paper
 
@@ -48,6 +48,8 @@ Homepage: [https://huggingface.co/datasets/MBZUAI-Paris/DarijaBench](https://hug
 * `darija_translation_madar`: evaluates Darija translation task from [MADAR](https://sites.google.com/nyu.edu/madar/) dataset.
 * `darija_translation_seed`: evaluates Darija translation task from [NLLB-Seed](https://github.com/openlanguagedata/seed) datasets.
 * `darija_transliteration_task`: evaluates Darija transliteration task from [DODa-10K](https://huggingface.co/datasets/MBZUAI-Paris/DODa-10K) corpus.
+
+Note: depending on the model, padding and padding side could affect the results. The default padding side in this library is forced to left. Use batch size equal to 1 for avoid problems.
 
 ### Checklist
 

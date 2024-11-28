@@ -770,7 +770,7 @@ class HFLM(TemplateLM):
     def tok_batch_encode(
         self,
         strings: List[str],
-        padding_side: str = "right",
+        padding_side: str = "left",
         left_truncate_len: int = None,
         truncation: bool = False,
     ) -> Tuple[torch.Tensor, torch.Tensor]:
@@ -1091,7 +1091,7 @@ class HFLM(TemplateLM):
             call_kwargs = {}
             if self.AUTO_MODEL_CLASS == transformers.AutoModelForCausalLM:
                 batched_inps = pad_and_concat(
-                    padding_len_inp, inps, padding_side="right"
+                    padding_len_inp, inps, padding_side="left"
                 )  # [batch, padding_len_inp]
             elif self.AUTO_MODEL_CLASS == transformers.AutoModelForSeq2SeqLM:
                 # TODO: left-pad encoder inps and mask?
