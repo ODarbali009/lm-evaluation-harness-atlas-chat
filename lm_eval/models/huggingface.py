@@ -199,7 +199,7 @@ class HFLM(TemplateLM):
         # access self._model through self.model property outside this method
         if isinstance(self.model, torch.nn.Module):
             self.model.eval()
-            self.model.tie_weights()
+            # self.model.tie_weights()
 
         self.truncation = truncation
         self.logits_cache = logits_cache
